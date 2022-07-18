@@ -1,0 +1,39 @@
+C:\Users\PC\source\repos\echo client\echo client\bin\Debug\net5.0\echo server.deps.json
+C:\Users\PC\source\repos\echo client\echo client\bin\Debug\net5.0\echo server.runtimeconfig.json
+C:\Users\PC\source\repos\echo client\echo client\bin\Debug\net5.0\echo server.runtimeconfig.dev.json
+C:\Users\PC\source\repos\echo client\echo client\bin\Debug\net5.0\echo server.exe
+C:\Users\PC\source\repos\echo client\echo client\bin\Debug\net5.0\echo client.exe
+C:\Users\PC\source\repos\echo client\echo client\bin\Debug\net5.0\echo client.deps.json
+C:\Users\PC\source\repos\echo client\echo client\bin\Debug\net5.0\echo client.runtimeconfig.json
+C:\Users\PC\source\repos\echo client\echo client\bin\Debug\net5.0\echo client.runtimeconfig.dev.json
+C:\Users\PC\source\repos\echo client\echo client\bin\Debug\net5.0\echo client.dll
+C:\Users\PC\source\repos\echo client\echo client\bin\Debug\net5.0\ref\echo client.dll
+C:\Users\PC\source\repos\echo client\echo client\bin\Debug\net5.0\echo client.pdb
+C:\Users\PC\source\repos\echo client\echo client\bin\Debug\net5.0\echo server.dll
+C:\Users\PC\source\repos\echo client\echo client\bin\Debug\net5.0\echo server.pdb
+C:\Users\PC\source\repos\echo client\echo client\obj\Debug\net5.0\echo client.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\echo client\echo client\obj\Debug\net5.0\echo client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\echo client\echo client\obj\Debug\net5.0\echo client.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\echo client\echo client\obj\Debug\net5.0\echo client.AssemblyInfo.cs
+C:\Users\PC\source\repos\echo client\echo client\obj\Debug\net5.0\echo client.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\echo client\echo client\obj\Debug\net5.0\echo client.csproj.CopyComplete
+C:\Users\PC\source\repos\echo client\echo client\obj\Debug\net5.0\echo client.dll
+C:\Users\PC\source\repos\echo client\echo client\obj\Debug\net5.0\ref\echo client.dll
+C:\Users\PC\source\repos\echo client\echo client\obj\Debug\net5.0\echo client.pdb
+C:\Users\PC\source\repos\echo client\echo client\obj\Debug\net5.0\echo client.genruntimeconfig.cache
+C:\Users\PC - 08\Desktop\echo client\bin\Debug\net5.0\echo client.exe
+C:\Users\PC - 08\Desktop\echo client\bin\Debug\net5.0\echo client.deps.json
+C:\Users\PC - 08\Desktop\echo client\bin\Debug\net5.0\echo client.runtimeconfig.json
+C:\Users\PC - 08\Desktop\echo client\bin\Debug\net5.0\echo client.runtimeconfig.dev.json
+C:\Users\PC - 08\Desktop\echo client\bin\Debug\net5.0\echo client.dll
+C:\Users\PC - 08\Desktop\echo client\bin\Debug\net5.0\ref\echo client.dll
+C:\Users\PC - 08\Desktop\echo client\bin\Debug\net5.0\echo client.pdb
+C:\Users\PC - 08\Desktop\echo client\obj\Debug\net5.0\echo client.csproj.AssemblyReference.cache
+C:\Users\PC - 08\Desktop\echo client\obj\Debug\net5.0\echo client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC - 08\Desktop\echo client\obj\Debug\net5.0\echo client.AssemblyInfoInputs.cache
+C:\Users\PC - 08\Desktop\echo client\obj\Debug\net5.0\echo client.AssemblyInfo.cs
+C:\Users\PC - 08\Desktop\echo client\obj\Debug\net5.0\echo client.csproj.CoreCompileInputs.cache
+C:\Users\PC - 08\Desktop\echo client\obj\Debug\net5.0\echo client.dll
+C:\Users\PC - 08\Desktop\echo client\obj\Debug\net5.0\ref\echo client.dll
+C:\Users\PC - 08\Desktop\echo client\obj\Debug\net5.0\echo client.pdb
+C:\Users\PC - 08\Desktop\echo client\obj\Debug\net5.0\echo client.genruntimeconfig.cache

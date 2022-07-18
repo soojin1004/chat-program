@@ -1,0 +1,48 @@
+C:\Users\PC\source\repos\echo server\echo server\obj\Debug\net5.0\echo server.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\echo server\echo server\obj\Debug\net5.0\echo server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\echo server\echo server\obj\Debug\net5.0\echo server.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\echo server\echo server\obj\Debug\net5.0\echo server.AssemblyInfo.cs
+C:\Users\PC\source\repos\echo server\echo server\obj\Debug\net5.0\echo server.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\echo server\echo server\bin\Debug\net5.0\echo server.exe
+C:\Users\PC\source\repos\echo server\echo server\bin\Debug\net5.0\echo server.deps.json
+C:\Users\PC\source\repos\echo server\echo server\bin\Debug\net5.0\echo server.runtimeconfig.json
+C:\Users\PC\source\repos\echo server\echo server\bin\Debug\net5.0\echo server.runtimeconfig.dev.json
+C:\Users\PC\source\repos\echo server\echo server\bin\Debug\net5.0\echo server.dll
+C:\Users\PC\source\repos\echo server\echo server\bin\Debug\net5.0\ref\echo server.dll
+C:\Users\PC\source\repos\echo server\echo server\bin\Debug\net5.0\echo server.pdb
+C:\Users\PC\source\repos\echo server\echo server\obj\Debug\net5.0\echo server.dll
+C:\Users\PC\source\repos\echo server\echo server\obj\Debug\net5.0\ref\echo server.dll
+C:\Users\PC\source\repos\echo server\echo server\obj\Debug\net5.0\echo server.pdb
+C:\Users\PC\source\repos\echo server\echo server\obj\Debug\net5.0\echo server.genruntimeconfig.cache
+C:\Users\PC\Desktop\echo server\echo server\bin\Debug\net5.0\echo server.exe
+C:\Users\PC\Desktop\echo server\echo server\bin\Debug\net5.0\echo server.deps.json
+C:\Users\PC\Desktop\echo server\echo server\bin\Debug\net5.0\echo server.runtimeconfig.json
+C:\Users\PC\Desktop\echo server\echo server\bin\Debug\net5.0\echo server.runtimeconfig.dev.json
+C:\Users\PC\Desktop\echo server\echo server\bin\Debug\net5.0\echo server.dll
+C:\Users\PC\Desktop\echo server\echo server\bin\Debug\net5.0\ref\echo server.dll
+C:\Users\PC\Desktop\echo server\echo server\bin\Debug\net5.0\echo server.pdb
+C:\Users\PC\Desktop\echo server\echo server\obj\Debug\net5.0\echo server.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\echo server\echo server\obj\Debug\net5.0\echo server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\echo server\echo server\obj\Debug\net5.0\echo server.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\echo server\echo server\obj\Debug\net5.0\echo server.AssemblyInfo.cs
+C:\Users\PC\Desktop\echo server\echo server\obj\Debug\net5.0\echo server.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\echo server\echo server\obj\Debug\net5.0\echo server.dll
+C:\Users\PC\Desktop\echo server\echo server\obj\Debug\net5.0\ref\echo server.dll
+C:\Users\PC\Desktop\echo server\echo server\obj\Debug\net5.0\echo server.pdb
+C:\Users\PC\Desktop\echo server\echo server\obj\Debug\net5.0\echo server.genruntimeconfig.cache
+C:\Users\PC - 08\Desktop\echo server\bin\Debug\net5.0\echo server.exe
+C:\Users\PC - 08\Desktop\echo server\bin\Debug\net5.0\echo server.deps.json
+C:\Users\PC - 08\Desktop\echo server\bin\Debug\net5.0\echo server.runtimeconfig.json
+C:\Users\PC - 08\Desktop\echo server\bin\Debug\net5.0\echo server.runtimeconfig.dev.json
+C:\Users\PC - 08\Desktop\echo server\bin\Debug\net5.0\echo server.dll
+C:\Users\PC - 08\Desktop\echo server\bin\Debug\net5.0\ref\echo server.dll
+C:\Users\PC - 08\Desktop\echo server\bin\Debug\net5.0\echo server.pdb
+C:\Users\PC - 08\Desktop\echo server\obj\Debug\net5.0\echo server.csproj.AssemblyReference.cache
+C:\Users\PC - 08\Desktop\echo server\obj\Debug\net5.0\echo server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC - 08\Desktop\echo server\obj\Debug\net5.0\echo server.AssemblyInfoInputs.cache
+C:\Users\PC - 08\Desktop\echo server\obj\Debug\net5.0\echo server.AssemblyInfo.cs
+C:\Users\PC - 08\Desktop\echo server\obj\Debug\net5.0\echo server.csproj.CoreCompileInputs.cache
+C:\Users\PC - 08\Desktop\echo server\obj\Debug\net5.0\echo server.dll
+C:\Users\PC - 08\Desktop\echo server\obj\Debug\net5.0\ref\echo server.dll
+C:\Users\PC - 08\Desktop\echo server\obj\Debug\net5.0\echo server.pdb
+C:\Users\PC - 08\Desktop\echo server\obj\Debug\net5.0\echo server.genruntimeconfig.cache
